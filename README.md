@@ -11,4 +11,4 @@ Comandos usados
 
 ## GitHub
 
-Nessa aula aprendemos também como usar GitHub.
+Nessa aula aprendemos também como usar _GitHub_.
