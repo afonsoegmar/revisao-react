@@ -26,7 +26,7 @@ function App() {
             <h1>turismo Passagens</h1>
             <p>conheça mundos pelo melhor preço!</p>
 
-            <button >Contato</button>
+           
 
             <button onClick={()=> adicionaCredito()}>Adicionar Créditos</button>
 
